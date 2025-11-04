@@ -11,8 +11,8 @@
 
 Explica brevemente cada directorio/archivo:
 
-### src/main/java/dev/alefiengo/miprimerspringboot/
-- `MiPrimerSpringbootApplication.java`: Este es el archivo principal que arranca la aplicación Spring Boot. Contiene el método `main` que invoca `SpringApplication.run(...)` para inicializar el contexto de Spring y levantar el servidor embebido.
+### src/main/java/dev/mmiranda/demo1/
+- `PrimerSpringApplication.java`: Este es el archivo principal que arranca la aplicación Spring Boot. Contiene el método `main` que invoca `SpringApplication.run(...)` para inicializar el contexto de Spring y levantar el servidor embebido.
 
 ### src/main/resources/
 - `application.properties`: Contiene la configuración de la aplicación, como el puerto del servidor, las credenciales de la base de datos, el nivel de logging y otras propiedades necesarias para ejecutar la aplicación correctamente.
